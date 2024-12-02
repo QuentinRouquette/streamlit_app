@@ -4,4 +4,4 @@ leafmap
 owslib
 streamlit
 pyarrow
-osmnx
+osmnx==1.1.2
